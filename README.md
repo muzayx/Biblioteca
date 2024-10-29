@@ -33,5 +33,5 @@ $pass = '';
 
 <p>Após configurar o banco de dados e o ambiente, o aplicativo estará pronto para ser utilizado.</p>
 
-![index](preview.png)
+![index](biblioteca/img/preview.png)
 
